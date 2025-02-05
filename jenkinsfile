@@ -4,13 +4,13 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo"build completed successfully"
+                echo"build completeddd successfully"
             }
         }
 
         stage('Test') {
             steps {
-                echo"test completed successfully"
+                echo"test completedd successfully"
             }
         }
         
